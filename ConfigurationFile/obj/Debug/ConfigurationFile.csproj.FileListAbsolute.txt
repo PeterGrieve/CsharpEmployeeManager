@@ -1,0 +1,11 @@
+T:\Peter Grieve\CP240\FinalProject\ConfigurationFile\bin\Debug\ConfigurationFile.dll
+T:\Peter Grieve\CP240\FinalProject\ConfigurationFile\bin\Debug\ConfigurationFile.pdb
+T:\Peter Grieve\CP240\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.dll
+T:\Peter Grieve\CP240\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ConfigurationFile\bin\Debug\ConfigurationFile.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ConfigurationFile\bin\Debug\ConfigurationFile.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.csprojResolveAssemblyReference.cache
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ConfigurationFile\obj\Debug\ConfigurationFile.pdb

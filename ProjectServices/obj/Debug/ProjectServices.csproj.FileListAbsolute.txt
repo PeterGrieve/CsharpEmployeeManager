@@ -1,0 +1,31 @@
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\ProjectServices.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\ProjectServices.pdb
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\EmployeeModel.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\ProjectRepository.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\ConfigurationFile.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\EmployeeModel.pdb
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\ProjectRepository.pdb
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\ConfigurationFile.pdb
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\obj\Debug\ProjectServices.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\obj\Debug\ProjectServices.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\obj\Debug\ProjectServices.pdb
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\EmployeeServices.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\EmployeeRepository.dll
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\EmployeeServices.pdb
+T:\Peter Grieve\CP240\FinalProject\ProjectServices\bin\Debug\EmployeeRepository.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\ProjectServices.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\ProjectServices.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\EmployeeModel.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\EmployeeServices.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\ProjectRepository.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\EmployeeRepository.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\ConfigurationFile.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\EmployeeModel.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\EmployeeServices.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\ProjectRepository.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\EmployeeRepository.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\bin\Debug\ConfigurationFile.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\obj\Debug\ProjectServices.csprojResolveAssemblyReference.cache
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\obj\Debug\ProjectServices.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\obj\Debug\ProjectServices.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\ProjectServices\obj\Debug\ProjectServices.pdb

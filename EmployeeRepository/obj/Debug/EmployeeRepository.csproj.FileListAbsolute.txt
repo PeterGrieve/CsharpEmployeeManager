@@ -1,0 +1,19 @@
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\bin\Debug\ConfigurationFile.dll
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\bin\Debug\EmployeeModel.dll
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\bin\Debug\ConfigurationFile.pdb
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\bin\Debug\EmployeeModel.pdb
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.csprojResolveAssemblyReference.cache
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+T:\Peter Grieve\CP240\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\bin\Debug\ConfigurationFile.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\bin\Debug\EmployeeModel.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\bin\Debug\ConfigurationFile.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\bin\Debug\EmployeeModel.pdb
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.csprojResolveAssemblyReference.cache
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CoreCompileInputs.cache
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+C:\Users\Peter A Grieve\Desktop\FinalProject_PeterGrieve\FinalProject\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
