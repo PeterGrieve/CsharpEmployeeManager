@@ -13,18 +13,10 @@ namespace ProjectRepository
 
     public interface IProjectRepository<T>
     {
-        List<project> FindAll();            // Get all projects				** Required project 
-        //FindByID(string id);		// Find project by ID 
-        List<employee> FindAllEmployees(string projID);  // employees on a given project			** Required
-        bool Add(string empID, string projID);    // add employee to project			** Required
-        bool Remove(string empID, string projID); // remove employee from project		** Required
-
-        //List<project> FindAll(employee e);  // projects assigned to an employee		** Extra credit
-        //bool Remove(employee e);    // remove employee from employeeProject table  	** Extra credit		
-        //bool Remove(project p);	// Remove project from employeeProject table		** Extra credit    
-        //bool Add(project x);        // Add project 						** Extra credit
-        //bool Update(project x);     // Modify project					** Extra credit
-        //bool Remove(project x);		// Remove project					** Extra credit
+        List<project> FindAll();            // Get all projects				
+        List<employee> FindAllEmployees(string projID);  // employees on a given project			
+        bool Add(string empID, string projID);    // add employee to project			
+        bool Remove(string empID, string projID); // remove employee from project		
 
     }
     public class projectRepository : IProjectRepository<project>
