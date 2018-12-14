@@ -12,11 +12,8 @@ namespace EmployeeRepository
 {
     public interface IEmployeeRepository<T>
     {
-        List<employee> FindAll();   // Get all employees	** Required
+        List<employee> FindAll();   // Get all employees
         List<employee> FindByID(string id);   // Find employee by ID  
-       // bool Add(employee x);       // Add employee  	** Extra credit
-       // bool Update(employee x);    // Modify employee	** Extra credit
-       // bool Remove(employee x);	// Remove employee	** Extra credit
     }
 
     public class employeeRepo : IEmployeeRepository<employee>
